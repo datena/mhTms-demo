@@ -1,4 +1,4 @@
-Vue 模板管理
+mhTms模板管理系统
 =
 # 功能点
 * 自动生成vue路由表  
@@ -11,7 +11,7 @@ Vue 模板管理
 yarn && yarn run serve
 ```
 
-## ⚠️目录说明
+## 目录说明
 - /mhTms  
     > mhTms必须放根目录
 - /page 
